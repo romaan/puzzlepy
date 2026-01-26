@@ -42,9 +42,6 @@ Dynamic Programming
 
 Sorting And Searching
 
-
-
-
 1. Binary Search
 2. Search an element in a sorted and rotated array
 3. Bubble Sort
@@ -110,3 +107,41 @@ String / Array
 8. Find the smallest positive integer value that cannot be represented as sum of any subset of a given array
 9. Smallest subarray with sum greater than a given value
 10. Stock Buy Sell to Maximize Profit
+
+Two pointer problems
+
+
+Sliding window problems
+
+
+Tree Traversal
+1. Reverse binary tree
+2. Verify mirror in tree
+
+
+Longest Commmon Subsequence
+
+1. Longest common Subsequence
+2. Longest increasing subsequence
+3. Distinct subsequence
+5. Longest Palindromic Substring
+4. Longest Palindromic Subsequence
+
+Zero / One Knapsack
+
+Minimum cost for tickets
+
+Coin Change
+
+# Strategy
+
+- 2 Pointer
+- Sliding window
+- Slow and fast pointers
+- Binary Search
+- BFS
+- DFS
+- Backtracking
+- Priority Queue (Heap)
+- Dynamic Programming
+- Linked list reversal and loop
